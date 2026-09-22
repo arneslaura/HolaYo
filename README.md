@@ -18,7 +18,7 @@
 ### Detalles del APK (Lab 1)
 - **Ruta de compilación:** `app/build/outputs/apk/debug/app-debug.apk`
 - **Peso del archivo final:** 5.685 KB
-- **Enlace de descarga:** 
+- **Enlace de descarga:** https://github.com/arneslaura/HolaYo/releases/tag/v1.0-lab1
 
 ---
 *Nota: El código de este repositorio evolucionará hacia el Laboratorio 2 en los siguientes commits.*
