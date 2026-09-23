@@ -44,4 +44,4 @@
 - **Depurador (Debugger):** Congelamiento del hilo de ejecución en eventos de la interfaz, avance paso a paso (Step Over / F8) e inspección profunda del panel de variables vivas en memoria (`this$0`).
 
 ### Detalles del APK (Lab 2)
-- **Enlace de descarga:** 
+- **Enlace de descarga:** https://github.com/arneslaura/HolaYo/releases/tag/v2.0-lab2
