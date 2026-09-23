@@ -23,7 +23,7 @@
 - **Enlace de descarga:** https://github.com/arneslaura/HolaYo/releases/tag/v1.0-lab1
 
 ---
-## Laboratorio 2: Una pantalla que vive y muere
+## Laboratorio 2: Una pantalla que vive y muere.
 
 ### Checklist de salida completado:
 - [x] HolaYo tiene dos pantallas conectadas por un Intent explícito que lleva un dato.
